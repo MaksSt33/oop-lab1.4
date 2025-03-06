@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\makss\\source\\repos\\lab1.4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E506BB8-3E9E-47C0-A969-DC3B9EA1DFEE}|..\\UnitTest1.4\\UnitTest1.4.vcxproj|C:\\Users\\makss\\source\\repos\\UnitTest1.4\\UnitTest1.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E3379D-572E-40C2-B34B-9BD5F378C571}|lab1.4.vcxproj|C:\\Users\\makss\\source\\repos\\lab1.4\\lab1.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{65E3379D-572E-40C2-B34B-9BD5F378C571}|lab1.4.vcxproj|solutionrelative:lab1.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E3379D-572E-40C2-B34B-9BD5F378C571}|lab1.4.vcxproj|C:\\Users\\makss\\source\\repos\\lab1.4\\Library.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{65E3379D-572E-40C2-B34B-9BD5F378C571}|lab1.4.vcxproj|solutionrelative:Library.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E3379D-572E-40C2-B34B-9BD5F378C571}|lab1.4.vcxproj|C:\\Users\\makss\\source\\repos\\lab1.4\\Book.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{65E3379D-572E-40C2-B34B-9BD5F378C571}|lab1.4.vcxproj|solutionrelative:Book.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E3379D-572E-40C2-B34B-9BD5F378C571}|lab1.4.vcxproj|C:\\Users\\makss\\source\\repos\\lab1.4\\Book.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{65E3379D-572E-40C2-B34B-9BD5F378C571}|lab1.4.vcxproj|solutionrelative:Book.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.4.cpp",
+              "DocumentMoniker": "C:\\Users\\makss\\source\\repos\\UnitTest1.4\\UnitTest1.4.cpp",
+              "RelativeDocumentMoniker": "..\\UnitTest1.4\\UnitTest1.4.cpp",
+              "ToolTip": "C:\\Users\\makss\\source\\repos\\UnitTest1.4\\UnitTest1.4.cpp*",
+              "RelativeToolTip": "..\\UnitTest1.4\\UnitTest1.4.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-06T22:31:27.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Library.h",
+              "DocumentMoniker": "C:\\Users\\makss\\source\\repos\\lab1.4\\Library.h",
+              "RelativeDocumentMoniker": "Library.h",
+              "ToolTip": "C:\\Users\\makss\\source\\repos\\lab1.4\\Library.h",
+              "RelativeToolTip": "Library.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-06T22:17:25.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.h",
+              "DocumentMoniker": "C:\\Users\\makss\\source\\repos\\lab1.4\\Book.h",
+              "RelativeDocumentMoniker": "Book.h",
+              "ToolTip": "C:\\Users\\makss\\source\\repos\\lab1.4\\Book.h",
+              "RelativeToolTip": "Book.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-06T22:17:12.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab1.4.cpp",
+              "DocumentMoniker": "C:\\Users\\makss\\source\\repos\\lab1.4\\lab1.4.cpp",
+              "RelativeDocumentMoniker": "lab1.4.cpp",
+              "ToolTip": "C:\\Users\\makss\\source\\repos\\lab1.4\\lab1.4.cpp",
+              "RelativeToolTip": "lab1.4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-06T22:16:42.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cpp",
+              "DocumentMoniker": "C:\\Users\\makss\\source\\repos\\lab1.4\\Book.cpp",
+              "RelativeDocumentMoniker": "Book.cpp",
+              "ToolTip": "C:\\Users\\makss\\source\\repos\\lab1.4\\Book.cpp",
+              "RelativeToolTip": "Book.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-06T22:17:48.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
